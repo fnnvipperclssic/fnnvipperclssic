@@ -22,7 +22,7 @@
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="50%" valign="top">
 
 Hi, I'm **fnnvipperclssic** – a cybersecurity enthusiast with a relentless curiosity for breaking things (ethically) and building resilient defenses.  
 My journey began with a simple question: *“How does this break?”* – and that question evolved into a mission to make the digital world safer, one vulnerability at a time.
@@ -111,7 +111,6 @@ My journey began with a simple question: *“How does this break?”* – and th
   <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="" />
 </p>
 
 ---
@@ -136,7 +135,7 @@ My journey began with a simple question: *“How does this break?”* – and th
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnnvipperclssic&layout=compact&theme=chartreuse-dark&langs_count=6" />
     </td>
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=fnnvipperclssic&theme=darkhub&no-frame=true&row=1&margin-w=20" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=fnnvipperclssic&theme=onedark&no-frame=true&row=1&margin-w=20" alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
@@ -160,10 +159,43 @@ My journey began with a simple question: *“How does this break?”* – and th
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fnnvipperclssic/fnnvipperclssic/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fnnvipperclssic/fnnvipperclssic/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/fnnvipperclssic/fnnvipperclssic/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fnnvipperclssic/fnnvipperclssic/snake-output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fnnvipperclssic/fnnvipperclssic/snake-output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/fnnvipperclssic/fnnvipperclssic/snake-output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+<!-- ============================================================
+     🕹️ PACMAN – Contribution Graph Animation
+     ============================================================ -->
+
+## 🕹️ Contribution Arcade
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fnnvipperclssic/fnnvipperclssic/pacman-output/bomberman-contribution-graph.svg">
+    <img alt="Bomberman Contribution Graph" src="https://raw.githubusercontent.com/fnnvipperclssic/fnnvipperclssic/pacman-output/bomberman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
+
+<!-- ============================================================
+     🎵 SPOTIFY – Recently Played Tracks
+     ============================================================ -->
+
+## 🎵 What I'm Listening To
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31mvf63dk3pbir6t4vyfembmy3ta" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mvf63dk3pbir6t4vyfembmy3ta&count=5&width=500" alt="Spotify Recently Played" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>🎧 Powered by <a href="https://github.com/JeffreyCA/spotify-recently-played-readme" target="_blank">spotify-recently-played-readme</a></sub>
+</p>
 
 ---
 
@@ -241,8 +273,4 @@ My journey began with a simple question: *“How does this break?”* – and th
 
 <p align="center">
   <i>If this work helped or inspired you, drop a ⭐ on a repo – it means a lot.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fnnvipperclssic&label=Visitors&color=00E676&style=for-the-badge" alt="Profile Views" />
 </p>

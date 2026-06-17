@@ -80,37 +80,62 @@ My journey began with a simple question: *“How does this break?”* – and th
 
 ## 🧰 Arsenal & Tools of the Trade
 
+<h3 align="center">🛡️ Security & Pentesting</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-FF9900?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/deepseek-1477D1?style=for-the-badge&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+</p>
+
+<h3 align="center">💻 Operating Systems</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+</p>
+
+<h3 align="center">🐍 Languages & Frameworks</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<h3 align="center">☁️ DevOps & Virtualization</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-FF9900?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<h3 align="center">🤖 AI & LLMs</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-1477D1?style=for-the-badge&logo=deepseek&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+<h3 align="center">🛠️ IDEs & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 </p>
 
 ---
@@ -135,7 +160,7 @@ My journey began with a simple question: *“How does this break?”* – and th
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnnvipperclssic&layout=compact&theme=chartreuse-dark&langs_count=6" />
     </td>
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=fnnvipperclssic&theme=onedark&no-frame=true&row=1&margin-w=20" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=fnnvipperclssic&theme=gruvbox&row=2&margin-w=15" alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
@@ -167,34 +192,19 @@ My journey began with a simple question: *“How does this break?”* – and th
 ---
 
 <!-- ============================================================
-     🕹️ PACMAN – Contribution Graph Animation
+     🎵 SPOTIFY – Now Playing / Recently Played
      ============================================================ -->
 
-## 🕹️ Contribution Arcade
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fnnvipperclssic/fnnvipperclssic/pacman-output/bomberman-contribution-graph.svg">
-    <img alt="Bomberman Contribution Graph" src="https://raw.githubusercontent.com/fnnvipperclssic/fnnvipperclssic/pacman-output/bomberman-contribution-graph.svg">
-  </picture>
-</p>
-
----
-
-<!-- ============================================================
-     🎵 SPOTIFY – Recently Played Tracks
-     ============================================================ -->
-
-## 🎵 What I'm Listening To
+## 🎵 Now Playing on Spotify
 
 <p align="center">
   <a href="https://open.spotify.com/user/31mvf63dk3pbir6t4vyfembmy3ta" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mvf63dk3pbir6t4vyfembmy3ta&count=5&width=500" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mvf63dk3pbir6t4vyfembmy3ta&count=3&unique=true&width=450" alt="Spotify Now Playing" />
   </a>
 </p>
 
 <p align="center">
-  <sub>🎧 Powered by <a href="https://github.com/JeffreyCA/spotify-recently-played-readme" target="_blank">spotify-recently-played-readme</a></sub>
+  <sub>🎧 Near real-time · updates every few seconds while listening · <a href="https://github.com/JeffreyCA/spotify-recently-played-readme" target="_blank">powered by spotify-recently-played-readme</a></sub>
 </p>
 
 ---
@@ -232,14 +242,28 @@ My journey began with a simple question: *“How does this break?”* – and th
      🌐 SOCIAL LINKS
      ============================================================ -->
 
-## 🌍 Let’s Connect
+## 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/fnnvipperclssic" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/fnnvipperclssic" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://hackerone.com/fnnvipperclssic" target="_blank"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" /></a>
-  <a href="https://bugcrowd.com/fnnvipperclssic" target="_blank"><img src="https://img.shields.io/badge/Bugcrowd-017E7E?style=for-the-badge&logo=bugcrowd&logoColor=white" /></a>
-  <a href="https://medium.com/@fnnvipperclssic" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/fnnvipperclssic" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/fnnvipperclssic" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@fnnvipperclssic" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <br>
+  <a href="https://hackerone.com/fnnvipperclssic" target="_blank">
+    <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
+  </a>
+  <a href="https://bugcrowd.com/fnnvipperclssic" target="_blank">
+    <img src="https://img.shields.io/badge/Bugcrowd-017E7E?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+  </a>
+  <a href="https://github.com/fnnvipperclssic" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
